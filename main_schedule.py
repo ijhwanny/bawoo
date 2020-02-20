@@ -62,7 +62,7 @@ def set_message(post) :
 ##############################################################################
 ### Get alarm bot and set channel_id
 ##############################################################################
-mytoken = '800680484:AAFbxy_WOlyux7no-T888igo8Tgin4qec2Y'
+mytoken = '...'
 bot = telegram.Bot(token=mytoken)
 me = bot.getMe()
 
